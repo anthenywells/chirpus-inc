@@ -1,0 +1,54 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    background-color: #f9fafc;
+}
+/* HEADER  */
+
+header {
+    margin: 25px;
+}
+
+a {
+    text-decoration: none;
+    color:#69696a;
+    padding: 0 15px;
+}
+
+.logo__small {
+    display: inline;
+    font-weight: bold;
+}
+
+.hire__button {
+    color: #fff;
+	border-radius: 25px;
+	background-color:#000000;
+	text-align: center;
+	padding: 10px 35px;
+	width: 25px;
+}
+
+.nav__bar {
+    float: right;
+    color: #69696a;
+}
+ 
+/* BODY  */
+
+
+
+
+
+
+
+
+/* .circle1, .circle2, .circle3 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.circle1 {
+    background-color: aquamarine;
+} */
